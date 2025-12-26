@@ -1,0 +1,41 @@
+class ImagePath{
+  static final String defaultImage = "assets/images/default_image.jpg";
+  static final String employerImage = "assets/images/employer_imge.png";
+  static final String femaleImage = "assets/images/female.png";
+  static final String findJob = "assets/images/find_jobs.png";
+  static final String findDreamJobImage = "assets/images/find_jobs_images.png";
+  static final String googleLogo = "assets/images/google_logo.png";
+  static final String splashScreenLogo = "assets/images/success_job.png";
+  static final String jobSeekersImage = "assets/images/job_seekers_image.png";
+  static final String post1 = "assets/images/post1.png";
+  static final String successAlert = "assets/images/success_alert.png";
+  static final String uploadResumeIcon = "assets/images/upload_resume_icon.png";
+  static final String appleIcone = "assets/images/apple.png";
+  static final String arrowIcone = "assets/images/arrow.png";
+  static final String avatarIcone = "assets/images/avatar.png";
+  static final String congratulationIcone = "assets/images/congratulation.png";
+  static final String deleteIcone = "assets/images/delets.png";
+  static final String dolerIcone = "assets/images/doller.png";
+  static final String editColor = "assets/images/edit.png";
+  static final String editIcone = "assets/images/edit2.png";
+  static final String exchangeIcone = "assets/images/exchange.png";
+  static final String eyeIcone = "assets/images/eye.png";
+  static final String fileIcone = "assets/images/file1.png";
+  static final String filterIcone = "assets/images/filter.png";
+  static final String helpIcone = "assets/images/help.png";
+  static final String logoutIcone = "assets/images/logout.png";
+  static final String loveIcone = "assets/images/love.png";
+  static final String microsoft = "assets/images/microsoft.png";
+  static final String newApply = "assets/images/new_applied.png";
+  static final String notification = "assets/images/notification.png";
+  static final String pdfIcone = "assets/images/pdf.png";
+  static final String phoneIcone = "assets/images/phone.png";
+  static final String privacyIcone = "assets/images/privacy.png";
+  static final String profileIcone = "assets/images/profile.png";
+  static final String securityIcone = "assets/images/security.png";
+  static final String smsIcone = "assets/images/sms.png";
+  static final String twiterIcone = "assets/images/tweter.png";
+  static final String uploadIcone = "assets/images/upload.png";
+  static final String successJob = "assets/images/success_job.png";
+
+}
